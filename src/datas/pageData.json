@@ -1,0 +1,17 @@
+[
+  {
+    "message": "Hello React"
+  },
+  {
+    "message": "Hello Webpack"
+  },
+  {
+    "message": "Hello Nodejs"
+  },
+  {
+    "message": "Hello Express"
+  },
+  {
+    "message": "Hello JavaScript"
+  }
+]
